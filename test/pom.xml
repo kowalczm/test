@@ -17,7 +17,7 @@
 		<connection>scm:git:git@github.com:kowalczm/test.git</connection>
 		<developerConnection>scm:git:git@github.com:kowalczm/test.git</developerConnection>
 		<url>scm:git:git@github.com:kowalczm/test.git</url>
-	  <tag>release/1.2</tag>
+	  <tag>release/1.3</tag>
   </scm>
 
 	<build>
