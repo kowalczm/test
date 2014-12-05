@@ -3,7 +3,7 @@
 
 	<groupId>com.mar</groupId>
 	<artifactId>test</artifactId>
-	<version>0.0.7-SNAPSHOT</version>
+	<version>0.0.8-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>test</name>
@@ -17,7 +17,7 @@
 		<connection>scm:git:ssh://git@github.com/kowalczm/test.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/kowalczm/test.git</developerConnection>
 		<url>scm:git:git@github.com:kowalczm/test.git</url>
-	  <tag>release/1.1</tag>
+	  <tag>release/1.4</tag>
   </scm>
 
 	<build>
