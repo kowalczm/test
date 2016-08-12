@@ -5,6 +5,7 @@ package com.mar.test;
  */
 public class App {
     // Moja zmiana na rel-1.2
+    // I jeszcze jedna zmiana
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
